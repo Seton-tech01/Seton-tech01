@@ -17,8 +17,8 @@ I am a results-driven **Full-Stack Web Developer** specializing in building high
 <!-- This section houses your main visual charts -->
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Seton-tech01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Seton's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Seton-tech01&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Chart" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seton-tech01&theme=tokyonight" alt="Seton's Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seton-tech01&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
